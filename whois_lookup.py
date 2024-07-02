@@ -2,6 +2,7 @@
 # Description: This script performs a WHOIS lookup on a domain to get registration information.
 # Use Case: Use this script to obtain information about domain ownership, registration dates, and contact information.
 # Command to run: python whois_lookup.py
+# Test
 
 import whois
 
