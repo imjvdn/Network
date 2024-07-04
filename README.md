@@ -1,8 +1,5 @@
 # Network Utility Scripts
 
-
-## Description
-
 This repository contains a collection of Python scripts developed for various network utility tasks. These scripts are designed to fetch DNS records, IP address information, perform network scans, and more. Each script is tailored for specific tasks and includes detailed comments explaining its purpose, usage, and how to run it.
 
 ## Scripts Overview
